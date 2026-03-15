@@ -1,5 +1,5 @@
-                                                         Hi 👋, I'm Suraj Yadav
-💫 About Me:<br><br>🎓 Pre-Final Year ECE (IoT) Student<br><br>💻 MERN Stack Web Developer | Node.js • React • MongoDB <br><br>🌐 Exploring IoT & Web Integration<br><br>📚 Practicing Data Structures & Algorithms
+                                                        Hi 👋, I'm Suraj Yadav
+💫 About Me:<br><br>🎓 Pre-Final Year ECE (IoT) Student<br><br>💻 MERN Stack Developer <br><br>🌐 Exploring IoT & Web Integration<br><br>📚 Practicing Data Structures & Algorithms
 
 
 ## 🌐 Socials:
