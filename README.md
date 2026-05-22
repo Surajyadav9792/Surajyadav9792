@@ -1,7 +1,7 @@
                                                         Hi 👋, I'm Suraj Yadav
 💫 About Me:
 
-🎓Final Year ECE (IoT) Student
+🎓 Final Year ECE (IoT) Student
 
 💻 MERN Stack Developer
 
