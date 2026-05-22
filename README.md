@@ -1,5 +1,15 @@
                                                         Hi 👋, I'm Suraj Yadav
-💫 About Me:<br><br>🎓 Pre-Final Year ECE (IoT) Student<br><br>💻 MERN Stack Developer <br><br>🌐 Exploring IoT & Web Integration<br><br>📚 Practicing Data Structures & Algorithms
+💫 About Me:
+
+🎓 Pre-Final Year ECE (IoT) Student
+
+💻 MERN Stack Developer
+
+🤖 Learning Generative AI, RAG & AI Agents
+
+🌐 Building AI + Web Integrated Projects
+
+📚 Practicing Data Structures & Algorithms
 
 
 ## 🌐 Socials:
